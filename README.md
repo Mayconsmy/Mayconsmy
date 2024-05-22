@@ -20,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://o.remove.bg/downloads/e3df60a8-ee9f-4b37-a190-7e780798f5c1/anime-33-222x300-removebg-preview.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
