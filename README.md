@@ -1,6 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Mayconsmy/Mayconsmy/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
 <p align="center">I 🖥 Hello World! My name is Maycon. <br><br> sou estudante de tecnologia da informação, tenho experiencia em criação de jogos 2D.</p>&nbsp;
 
