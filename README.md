@@ -20,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://o.remove.bg/downloads/e3df60a8-ee9f-4b37-a190-7e780798f5c1/anime-33-222x300-removebg-preview.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+
 
 #### Secondary Stack:
 
@@ -28,6 +28,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+
+Descrição do projeto...
 
 #### Studying in this moment:
 
