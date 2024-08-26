@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<p align="center">I 🖥 Hello World! My name is Maycon. <br><br> sou estudante de tecnologia da informação, tenho experiencia em criação de jogos 2D.</p>&nbsp;
+<p align="center">I 🖥 Hello World! My name is Maycon. <br><br> sou estudante de tecnologia da informação(IT) na UFERSA.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsmy&theme=radical&mode=weekly" />
