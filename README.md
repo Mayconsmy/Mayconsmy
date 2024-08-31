@@ -16,8 +16,9 @@
 
 #### Main Stack:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
@@ -38,6 +39,8 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Dev-C++](https://img.shields.io/badge/DevC++-007ACC?style=for-the-badge&logo=dev-cplusplus&logoColor=white)
+![Falcon C++](https://img.shields.io/badge/Falcon_C++-2C3E50?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 &nbsp;
 &nbsp;
