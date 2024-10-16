@@ -15,36 +15,10 @@
 
 ## My Skills
 
-#### Main Stack:
-
-![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-#### Secondary Stack:
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-
-#### Studying in this moment:
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### Databases:
-
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Dev-C++](https://img.shields.io/badge/DevC++-007ACC?style=for-the-badge&logo=dev-cplusplus&logoColor=white)
-![Falcon C++](https://img.shields.io/badge/Falcon_C++-2C3E50?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
+![image](https://img.shields.io/badge/C-461DFF?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/Python-001869?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/Linux-2F3F73?style=for-the-badge&logo=linux&logoColor=black)
+ 
 ## Contacts:
 
 <div> 
