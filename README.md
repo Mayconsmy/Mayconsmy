@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
 - 🖥 Hi my name is Maycon!
-- Graduating in information technology (IT) student - UFERSA.
-- I am currently studying and specializing in the areas of database, data structures, machine learning.
+- Graduating in information technology (IT) - UFERSA.
+- I am currently studying and specializing in the areas of database, data structures and machine learning.
 
 <div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 70px;">
   <!-- Streak Stats -->
