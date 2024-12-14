@@ -4,16 +4,16 @@
 - Graduating in information technology (IT) student - UFERSA.
 - I am currently studying and specializing in the areas of database, data structures, machine learning.
 
-<div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 70px;">
   <!-- Streak Stats -->
-  <img width="55%" align="center" 
+  <img width="50%" align="center" 
        src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsmy&theme=tokyonight&mode=weekly" />
-       
-  <!-- Top Langs Stats -->
+
+
+ 
   <img width="40%" align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsmy&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
-
  
  &nbsp;
  &nbsp;
@@ -38,5 +38,5 @@
  
 </div>&nbsp;&nbsp;
    
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
 
