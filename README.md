@@ -23,17 +23,18 @@
 
 ## My Skills
 
-![image](https://img.shields.io/badge/C-461DFF?style=for-the-badge&logo=c&logoColor=white)
-![image](https://img.shields.io/badge/Python-001869?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/Linux-2F3F73?style=for-the-badge&logo=linux&logoColor=black)
+![C Badge](https://img.shields.io/badge/C-461DFF?style=for-the-badge&logo=c&logoColor=white "programming languages")
+![C++ Badge](https://img.shields.io/badge/C++-000080?style=for-the-badge&logo=cplusplus&logoColor=white "programming languages")
+![Python Badge](https://img.shields.io/badge/Python-001869?style=for-the-badge&logo=python&logoColor=blue "programming languages")
+![Linux Badge](https://img.shields.io/badge/Linux-000080?style=for-the-badge&logo=linux&logoColor=black "operational system used")
  
 ## Contacts:
 
 <div> 
  
-<a href = "mailto:contato.1mayconsm2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/maycon-soares-3037142b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:contato.1mayconsm2@gmail.com" title="personal contacts"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/maycon-soares-3037142b8/" target="_blank" title="personal contacts"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://discord.com/channels/@me" target="_blank" title="personal contacts"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
 
  
 </div>&nbsp;&nbsp;
