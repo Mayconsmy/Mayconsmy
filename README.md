@@ -1,15 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
-<p align="center">I 🖥 Hello World! My name is Maycon. <br><br> I am an information technology (IT) student at UFERSA.</p>&nbsp; 
-<p align="center"> I'm a back-end developer in training. I am interested in the areas of robotics, automation, database structures, among others. </p>&nbsp;
+- 🖥 Hi my name is Maycon!
+- Graduating in information technology (IT) student - UFERSA.
+- I am currently studying and specializing in the areas of database, data structures, machine learning.
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsmy&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Mayconsmy&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 20px;">
+  <!-- Streak Stats -->
+  <img width="55%" align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsmy&theme=tokyonight&mode=weekly" />
+       
+  <!-- Top Langs Stats -->
+  <img width="40%" align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsmy&show_icons=true&theme=tokyonight&layout=compact" />
+</div>
+
  
  &nbsp;
  &nbsp;
+
 
 
 
@@ -22,8 +30,7 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/mayconsm__?igsh=MXEzam5qMXcyYnlzZg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+ 
 <a href = "mailto:contato.1mayconsm2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/maycon-soares-3037142b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
@@ -31,4 +38,5 @@
  
 </div>&nbsp;&nbsp;
    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
+
