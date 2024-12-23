@@ -2,7 +2,7 @@
 
 - 🖥 Hi my name is Maycon!
 - Graduating in information technology (IT) - UFERSA.
-- I am currently studying and specializing in the areas of database, data structures and machine learning.
+- Currently, I am studying and specializing in the python language associating it in the areas of database, data structures and machine learning.
 
 <div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 70px;">
   <!-- Streak Stats -->
