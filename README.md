@@ -23,11 +23,13 @@
 
 ## My Skills
 
-![C Badge](https://img.shields.io/badge/C-461DFF?style=for-the-badge&logo=c&logoColor=white "programming languages")
-![C++ Badge](https://img.shields.io/badge/C++-000080?style=for-the-badge&logo=cplusplus&logoColor=white "programming languages")
-![Python Badge](https://img.shields.io/badge/Python-001869?style=for-the-badge&logo=python&logoColor=blue "programming languages")
-![Linux Badge](https://img.shields.io/badge/Linux-000080?style=for-the-badge&logo=linux&logoColor=black "operational system used")
- 
+<img align="left" alt="Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+<img align="left" alt="Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+<img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+
+<br>
+
 ## Contacts:
 
 <div> 
