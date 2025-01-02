@@ -5,7 +5,6 @@
 - Currently, I am studying and specializing in the python language associating it in the areas of database, data structures and machine learning.
 
 
-  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mayconsmy&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="525px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsmy&layout=donut-vertical&theme=tokyonight" alt="Top Langs" width="200px">
