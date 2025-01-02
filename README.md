@@ -4,14 +4,13 @@
 - Graduating in information technology (IT) - UFERSA.
 - Currently, I am studying and specializing in the python language associating it in the areas of database, data structures and machine learning.
 
-<div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 70px;">
-  <!-- Streak Stats -->
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayconsmy&show_icons=true&theme=tokyonight)
 
-  <img width="40%" align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsmy&show_icons=true&theme=tokyonight&layout=compact" />
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayconsmy&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="525px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsmy&layout=donut-vertical&theme=tokyonight" alt="Top Langs" width="200px">
 </div>
+
  
  &nbsp;
  &nbsp;
@@ -37,7 +36,7 @@
 <a href="https://discord.com/channels/@me" target="_blank" title="personal contacts"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
 
  
-</div>&nbsp;&nbsp;
+
    
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
 
