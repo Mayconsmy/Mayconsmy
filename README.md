@@ -6,11 +6,9 @@
 
 <div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 70px;">
   <!-- Streak Stats -->
-  <img width="50%" align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsmy&theme=tokyonight&mode=weekly" />
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayconsmy&show_icons=true&theme=tokyonight)
 
-
- 
   <img width="40%" align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsmy&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
