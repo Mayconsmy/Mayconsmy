@@ -23,8 +23,8 @@
 <img align="left" alt="Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-<img align="left" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-<img align="left" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
+<img align="left" alt="Rafa-ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
+<img align="left" alt="Rafa-latex" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
 
 <br>
 
