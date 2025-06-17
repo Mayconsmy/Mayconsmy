@@ -3,7 +3,7 @@
 - 🖥 Hi my name is Maycon!
 - Graduating in information technology (IT) - UFERSA.
 - Second Cycle - Computer Engineering
-- Currently, I am studying and specializing in the python language associating it in the areas of database, data structures and machine learning.
+- Currently, I am studying and specializing in the areas of database, data structures and machine learning.
 
 
 <div align="center">
