@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
+![](https://komarev.com/ghpvc/?username=Mayconsmy&color=006bed)
+
 - 🖥 Hi my name is Maycon!
 - Graduating in information technology (IT) - UFERSA.
 - Second Cycle - Computer Engineering
