@@ -5,8 +5,12 @@
 - 🖥 Hi my name is Maycon!
 - Graduating in information technology (IT) - UFERSA.
 - Second Cycle - Computer Engineering
-- Currently, I am studying and specializing in the areas of database, data structures and machine learning.
-
+- Currently, I am studying and specializing in the areas of:
+-  Database
+-  Data structures
+-  Machine learning
+-  Embedded systems
+-  IT Process Automation
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mayconsmy&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="415px">
