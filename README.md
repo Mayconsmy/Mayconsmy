@@ -24,11 +24,11 @@
 
 
 ## My Skills
-
 <img align="left" alt="Cplusplus" height="30" width="40" title="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 <img align="left" alt="Cplusplus" height="30" width="40" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img align="left" alt="Rafa-Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" alt="Rafa-Python" height="30" width="40" title="operating system" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+<img align="left" alt="Type Script" height="30" width="40" title="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
 <img align="left" alt="Git" height="30" width="40" title="Version control system" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
 <img align="left" alt="Rafa-latex" height="30" width="40" title="Markup language" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
 
