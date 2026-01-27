@@ -33,7 +33,7 @@
 
 <br>
 
-### utilities
+### Utilities
 
 <img align="left" alt="Rafa-Python" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg">
 <img align="left" alt="Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
