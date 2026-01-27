@@ -5,7 +5,7 @@
 - 🖥 Hi my name is Maycon!
 - Graduating in information technology (IT) - UFERSA.
 - Second Cycle - Computer Engineering
-- I am studying and specializing in the areas of: machine learning and embedded systems
+- I am studying and specializing in the areas of: machine learning | embedded systems | cloud computing
 
 ### Front-End
 
@@ -39,6 +39,7 @@
 <img align="left" alt="Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
 <img align="left" alt="Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg">
 
+<br>
 <br>
 <br>
 
