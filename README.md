@@ -6,7 +6,7 @@
 - Graduating in information technology (IT) - UFERSA.
 - Second Cycle - Computer Engineering
 - I am studying and specializing in the areas of: machine learning | embedded systems | cloud computing
-
+- [my personal resume](https://mayconsoares.netlify.app/#projetos)
 ### Front-End
 
 <img align="left" alt="Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
