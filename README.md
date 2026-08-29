@@ -78,7 +78,6 @@
  
 <a href="mailto:contato.1mayconsm2@gmail.com" title="Email"><img alt="Gmail" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg"></a>
 <a href="https://www.linkedin.com/in/maycon-soares-79894436a/" target="_blank" title="Linkedin"><img alt="LinkedIn" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"></a> 
-<a href="https://discord.com/channels/@me" target="_blank" title="Discord"><img alt="Discord" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"></a> 
-
+<a href="https://discord.com/channels/@zeus4251" target="_blank" title="Discord"><img alt="Discord" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"></a> 
    
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
