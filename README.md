@@ -32,52 +32,23 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
-![](https://komarev.com/ghpvc/?username=Mayconsmy&color=006bed)
+<div align="center"> <img src="./terminal.svg" alt="Terminal animado de mayconsmy" width="820"/> </div> <br/>
 
-- 🖥 Hi my name is Maycon!
-- First Cycle: Information Technology (2024-2026) - UFERSA
-- Second Cycle: Computer Engineering (2027-2028)
-- I am studying and specializing in the areas of: machine learning | embedded systems | cloud computing
-- [my personal resume](https://mayconsoares.netlify.app/#projetos)
 
-### Front-End
+<div align="center">
 
-<img align="left" alt="HTML" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
-<img align="left" alt="CSS" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
-<img align="left" alt="React" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
-
-<br>
-
-### Back-End
-<img align="left" alt="C" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg">
-<img align="left" alt="Java" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg">
-<img align="left" alt="JavaScript" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
-<img align="left" alt="Python" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
-<img align="left" alt="Supabase" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg">
-<img align="left" alt="PostgreSQL" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg">
-
-<br>
-
-### FrameWorks
-
-<img align="left" alt="TailwindCSS" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg">
-
-<br>
-
-### Utilities
-
-<img align="left" alt="Ubuntu" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg">
-<img align="left" alt="Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
-<img align="left" alt="Vite" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg">
+<img alt="AWS" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
+<img alt="Ubuntu" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg">
+<img alt="Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
 
 <br>
 
 ### Contacts:
 
-<div> 
- 
 <a href="mailto:contato.1mayconsm2@gmail.com" title="Email"><img alt="Gmail" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg"></a>
 <a href="https://www.linkedin.com/in/maycon-soares-79894436a/" target="_blank" title="Linkedin"><img alt="LinkedIn" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"></a> 
 <a href="https://discord.com/channels/@zeus4251" target="_blank" title="Discord"><img alt="Discord" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"></a> 
+
+</div>
    
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
