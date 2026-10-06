@@ -39,7 +39,7 @@
 
 <img alt="AWS" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
 <img alt="Ubuntu" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg">
-<img alt="Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
+<img alt="Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg">
 
 <br>
 
